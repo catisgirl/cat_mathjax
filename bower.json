@@ -1,0 +1,20 @@
+{
+  "name": "cat_mathjax",
+  "homepage": "https://github.com/catisgirl/cat_mathjax",
+  "ignore": [
+    "README.md"
+  ],
+  "main": [
+    "dist/MathJax.js"
+  ],
+  "keywords": [
+    "mathjax",
+    "latex"
+  ],
+  "version": "2.6.1",
+  "_originalSource": "https://github.com/mathjax/MathJax/tree/2.6.1",
+  "authors": [
+    "catisgirl <ljjzijin@163.com>"
+  ],
+  "license": "MIT"
+}
