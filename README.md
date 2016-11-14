@@ -4,6 +4,7 @@ A trimmed down version of the MathJax library for general use
 the message of config is dist/config/TeX-AMS-MML_HTMLorMML.js
 
 including the config of as follow:
+```
 MathJax.Hub.Config(
     {
         jax: ["input/TeX","output/HTML-CSS"],
@@ -17,5 +18,5 @@ MathJax.Hub.Config(
             availableFonts: ["TeX"]
   }
 });
-
+```
 the demo is test.html
